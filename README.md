@@ -22,3 +22,15 @@ Test functions:
  * hardeningTest.jl: generate results of component hardening (Section 4.3.2)
  * tauTest.jl: generate results of recovery phase duration (Section 4.3.3)
  * multiTest.jl: generate results of multiple-component disruptin (Section 4.3.4)
+---
+Results data:
+ * dOnly_lb/dOnly_time.csv: Table 1, Figure 3
+ * N_lb/N_time.csv: Table 2, Figure 4
+ * detResults.jld: Table 3
+ * stabilityResults.jld: Table 4
+ * ub.csv/UBResults.jld: Figure 5
+ * butilResults.jld: Table 5
+ * hardResults.jld: Table 6
+ * tauResults.jld: Table 7
+ * tauResults_specific.jld: Table 8
+ * multiResults.jld: Table 9
